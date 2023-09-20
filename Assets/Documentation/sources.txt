@@ -1,1 +1,6 @@
-default door texture: 
+Textures:
+Simple Door Texture By Surfacequest on https://www.surfacequest.com/are-your-hotel-doors-eligible-for-a-revdoors-transformation-2/
+
+Sounds:
+Simple Door Locked Sound By Distorded Room on https://www.youtube.com/watch?v=X93M5yW1agw&ab_channel=DistortedRoom
+Simple Door Opening Sound By GamingSoundEffects on https://www.youtube.com/watch?v=Nfg1LS5b5x8&ab_channel=GamingSoundEffects

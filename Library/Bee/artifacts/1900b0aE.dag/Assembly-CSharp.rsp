@@ -357,6 +357,7 @@
 "Assets/Scripts/Essential Scripts/ObjectInteraction.cs"
 "Assets/Scripts/Essential Scripts/PlayerLook.cs"
 "Assets/Scripts/Essential Scripts/PlayerMove.cs"
+"Assets/Scripts/Object sripts/Door.cs"
 -langversion:9.0
 
 /deterministic
