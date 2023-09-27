@@ -1,6 +1,19 @@
 Textures:
 Simple Door Texture By Surfacequest on https://www.surfacequest.com/are-your-hotel-doors-eligible-for-a-revdoors-transformation-2/
+Storage Shelf Texture By Shelving4shops on https://www.shelving4shops.co.uk/storageshelving.html
+Gold Bar Texture By Alex & Alan on https://illustrationagent.com/style/3d-textures-gold-bar-advertising-illustration/
+C4 Texture By 3DExport on https://nl.3dexport.com/3dmodel-c4-explosive-device-327280.htm
+Pallet Transporter Texture By Jungheidrich on https://www.jungheinrich.nl/heftruck/elektrische-palletwagen/eje-114-116-118-120-424464
+Vault Metal Texture By Vectonauta on https://www.freepik.com/free-photo/scratched-aluminum-texture-background_14688924.htm#query=metal%20texture&position=9&from_view=keyword&track=ais
+Money Stack Texture By newrulefx.com on https://www.newrulefx.com/products/money-prop-new-style-100-crisp-new-50-000-blank-filler-5-stack-package
 
 Sounds:
 Simple Door Locked Sound By Distorded Room on https://www.youtube.com/watch?v=X93M5yW1agw&ab_channel=DistortedRoom
 Simple Door Opening Sound By GamingSoundEffects on https://www.youtube.com/watch?v=Nfg1LS5b5x8&ab_channel=GamingSoundEffects
+
+Models:
+Pallet Model By groemk on https://free3d.com/3d-model/eur-pallet-7000.html 
+Vault Door Model By Zhukovskyi on https://www.turbosquid.com/3d-models/vault-door-bank-3d-3ds/1118041
+Cabinet Model By Thiago Kozikowski on https://www.turbosquid.com/AssetManager/Index.cfm?stgAction=getFiles&subAction=Download&intID=1856236&intType=3&csrf=D6DD5373E3FFAB1AB56D9FE285F49D2559A514B5&showDownload=1&s=1
+Case Model By TampaJoey on https://sketchfab.com/3d-models/briefcase-empty-low-poly-game-ready-a655a45905a4463d8a390def53a9a25e
+
